@@ -1,4 +1,976 @@
 #EXTM3U
+#EXTINF:0,A&E HD
+http://maxptv.ddns.net:25461/live/MA020/0706/231.ts
+#EXTINF:0,A&E SD
+http://maxptv.ddns.net:25461/live/MA020/0706/230.ts
+#EXTINF:0,AMC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/229.ts
+#EXTINF:0,AMC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/228.ts
+#EXTINF:0,AXN HD
+http://maxptv.ddns.net:25461/live/MA020/0706/224.ts
+#EXTINF:0,AXN SD
+http://maxptv.ddns.net:25461/live/MA020/0706/223.ts
+#EXTINF:0,Animal Planet HD
+http://maxptv.ddns.net:25461/live/MA020/0706/227.ts
+#EXTINF:0,Animal Planet SD
+http://maxptv.ddns.net:25461/live/MA020/0706/232.ts
+#EXTINF:0,Arte1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/226.ts
+#EXTINF:0,Arte1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/225.ts
+#EXTINF:0,BIS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/212.ts
+#EXTINF:0,BIS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/211.ts
+#EXTINF:0,BabyTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/222.ts
+#EXTINF:0,BabyTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/221.ts
+#EXTINF:0,Band Campinas HD
+http://maxptv.ddns.net:25461/live/MA020/0706/220.ts
+#EXTINF:0,Band Campinas SD
+http://maxptv.ddns.net:25461/live/MA020/0706/219.ts
+#EXTINF:0,Band News HD
+http://maxptv.ddns.net:25461/live/MA020/0706/218.ts
+#EXTINF:0,Band News SD
+http://maxptv.ddns.net:25461/live/MA020/0706/217.ts
+#EXTINF:0,BandSports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/216.ts
+#EXTINF:0,BandSports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/215.ts
+#EXTINF:0,Boomerang HD
+http://maxptv.ddns.net:25461/live/MA020/0706/210.ts
+#EXTINF:0,Boomerang SD
+http://maxptv.ddns.net:25461/live/MA020/0706/209.ts
+#EXTINF:0,Canal Curta! HD
+http://maxptv.ddns.net:25461/live/MA020/0706/208.ts
+#EXTINF:0,Canal Curta! SD
+http://maxptv.ddns.net:25461/live/MA020/0706/207.ts
+#EXTINF:0,Canal Futura HD
+http://maxptv.ddns.net:25461/live/MA020/0706/206.ts
+#EXTINF:0,Canal Futura SD
+http://maxptv.ddns.net:25461/live/MA020/0706/205.ts
+#EXTINF:0,Canal OFF HD
+http://maxptv.ddns.net:25461/live/MA020/0706/204.ts
+#EXTINF:0,Canal OFF SD
+http://maxptv.ddns.net:25461/live/MA020/0706/203.ts
+#EXTINF:0,Canal Woohoo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/202.ts
+#EXTINF:0,Canal Woohoo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/201.ts
+#EXTINF:0,Cartoon Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/200.ts
+#EXTINF:0,Cartoon Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/199.ts
+#EXTINF:0,Cinemax HD
+http://maxptv.ddns.net:25461/live/MA020/0706/198.ts
+#EXTINF:0,Cinemax SD
+http://maxptv.ddns.net:25461/live/MA020/0706/197.ts
+#EXTINF:0,Combate HD
+http://maxptv.ddns.net:25461/live/MA020/0706/196.ts
+#EXTINF:0,Combate SD
+http://maxptv.ddns.net:25461/live/MA020/0706/195.ts
+#EXTINF:0,Comedy Central HD
+http://maxptv.ddns.net:25461/live/MA020/0706/194.ts
+#EXTINF:0,Comedy Central SD
+http://maxptv.ddns.net:25461/live/MA020/0706/193.ts
+#EXTINF:0,Cultura HD
+http://maxptv.ddns.net:25461/live/MA020/0706/192.ts
+#EXTINF:0,Cultura SD
+http://maxptv.ddns.net:25461/live/MA020/0706/191.ts
+#EXTINF:0,Discovery Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/190.ts
+#EXTINF:0,Discovery Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/189.ts
+#EXTINF:0,Discovery Civilization HD
+http://maxptv.ddns.net:25461/live/MA020/0706/188.ts
+#EXTINF:0,Discovery Civilization SD
+http://maxptv.ddns.net:25461/live/MA020/0706/187.ts
+#EXTINF:0,Discovery Home & Health HD
+http://maxptv.ddns.net:25461/live/MA020/0706/186.ts
+#EXTINF:0,Discovery Home & Health SD
+http://maxptv.ddns.net:25461/live/MA020/0706/185.ts
+#EXTINF:0,Discovery Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/184.ts
+#EXTINF:0,Discovery Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/183.ts
+#EXTINF:0,Discovery Science HD
+http://maxptv.ddns.net:25461/live/MA020/0706/182.ts
+#EXTINF:0,Discovery Science SD
+http://maxptv.ddns.net:25461/live/MA020/0706/181.ts
+#EXTINF:0,Discovery Theater HD
+http://maxptv.ddns.net:25461/live/MA020/0706/180.ts
+#EXTINF:0,Discovery Turbo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/178.ts
+#EXTINF:0,Discovery Turbo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/177.ts
+#EXTINF:0,Discovery World HD
+http://maxptv.ddns.net:25461/live/MA020/0706/176.ts
+#EXTINF:0,Discovery World SD
+http://maxptv.ddns.net:25461/live/MA020/0706/175.ts
+#EXTINF:0,Discovery theater SD
+http://maxptv.ddns.net:25461/live/MA020/0706/179.ts
+#EXTINF:0,Disney Channel  HD
+http://maxptv.ddns.net:25461/live/MA020/0706/174.ts
+#EXTINF:0,Disney Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/173.ts
+#EXTINF:0,Disney Junior HD
+http://maxptv.ddns.net:25461/live/MA020/0706/172.ts
+#EXTINF:0,Disney Junior SD
+http://maxptv.ddns.net:25461/live/MA020/0706/171.ts
+#EXTINF:0,Disney XD HD
+http://maxptv.ddns.net:25461/live/MA020/0706/170.ts
+#EXTINF:0,Disney XD SD
+http://maxptv.ddns.net:25461/live/MA020/0706/169.ts
+#EXTINF:0,E! HD
+http://maxptv.ddns.net:25461/live/MA020/0706/168.ts
+#EXTINF:0,E! SD
+http://maxptv.ddns.net:25461/live/MA020/0706/167.ts
+#EXTINF:0,EPTV Campinas HD
+http://maxptv.ddns.net:25461/live/MA020/0706/166.ts
+#EXTINF:0,EPTV Campinas HD Alternativo
+http://maxptv.ddns.net:25461/live/MA020/0706/475.ts
+#EXTINF:0,EPTV Campinas HD Alternativo 2
+http://maxptv.ddns.net:25461/live/MA020/0706/476.ts
+#EXTINF:0,EPTV Campinas SD
+http://maxptv.ddns.net:25461/live/MA020/0706/165.ts
+#EXTINF:0,Espn Brasil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/164.ts
+#EXTINF:0,Espn Brasil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/163.ts
+#EXTINF:0,Espn HD
+http://maxptv.ddns.net:25461/live/MA020/0706/160.ts
+#EXTINF:0,Espn 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/162.ts
+#EXTINF:0,Espn SD
+http://maxptv.ddns.net:25461/live/MA020/0706/159.ts
+#EXTINF:0,Espn 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/161.ts
+#EXTINF:0,Espn Extra HD
+http://maxptv.ddns.net:25461/live/MA020/0706/158.ts
+#EXTINF:0,Espn Extra SD
+http://maxptv.ddns.net:25461/live/MA020/0706/157.ts
+#EXTINF:0,Film & Arts HD
+http://maxptv.ddns.net:25461/live/MA020/0706/156.ts
+#EXTINF:0,Film & Arts SD
+http://maxptv.ddns.net:25461/live/MA020/0706/155.ts
+#EXTINF:0,FOX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/154.ts
+#EXTINF:0,FOX Life HD
+http://maxptv.ddns.net:25461/live/MA020/0706/153.ts
+#EXTINF:0,FOX Life SD
+http://maxptv.ddns.net:25461/live/MA020/0706/152.ts
+#EXTINF:0,FOX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/147.ts
+#EXTINF:0,FX HD
+http://maxptv.ddns.net:25461/live/MA020/0706/142.ts
+#EXTINF:0,FX SD
+http://maxptv.ddns.net:25461/live/MA020/0706/141.ts
+#EXTINF:0,Fish Tv
+http://maxptv.ddns.net:25461/live/MA020/0706/214.ts
+#EXTINF:0,Fish Tv HD
+http://maxptv.ddns.net:25461/live/MA020/0706/213.ts
+#EXTINF:0,Food Network HD
+http://maxptv.ddns.net:25461/live/MA020/0706/333.ts
+#EXTINF:0,Food Network SD
+http://maxptv.ddns.net:25461/live/MA020/0706/334.ts
+#EXTINF:0,Fox Premium 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/151.ts
+#EXTINF:0,Fox Premium 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/150.ts
+#EXTINF:0,Fox Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/149.ts
+#EXTINF:0,Fox Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/148.ts
+#EXTINF:0,Fox Sports 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/146.ts
+#EXTINF:0,Fox Sports 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/145.ts
+#EXTINF:0,Fox Sports HD
+http://maxptv.ddns.net:25461/live/MA020/0706/144.ts
+#EXTINF:0,Fox Sports SD
+http://maxptv.ddns.net:25461/live/MA020/0706/143.ts
+#EXTINF:0,GNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/136.ts
+#EXTINF:0,GNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/135.ts
+#EXTINF:0,GloboNews HD
+http://maxptv.ddns.net:25461/live/MA020/0706/140.ts
+#EXTINF:0,GloboNews SD
+http://maxptv.ddns.net:25461/live/MA020/0706/139.ts
+#EXTINF:0,Gloob HD
+http://maxptv.ddns.net:25461/live/MA020/0706/138.ts
+#EXTINF:0,Gloob SD
+http://maxptv.ddns.net:25461/live/MA020/0706/137.ts
+#EXTINF:0,H2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/134.ts
+#EXTINF:0,H2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/133.ts
+#EXTINF:0,HBO 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/132.ts
+#EXTINF:0,HBO 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/131.ts
+#EXTINF:0,HBO Family HD
+http://maxptv.ddns.net:25461/live/MA020/0706/130.ts
+#EXTINF:0,HBO Family SD
+http://maxptv.ddns.net:25461/live/MA020/0706/129.ts
+#EXTINF:0,HBO HD
+http://maxptv.ddns.net:25461/live/MA020/0706/128.ts
+#EXTINF:0,HBO Plus *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/127.ts
+#EXTINF:0,HBO Plus *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/126.ts
+#EXTINF:0,HBO Plus HD
+http://maxptv.ddns.net:25461/live/MA020/0706/125.ts
+#EXTINF:0,HBO Plus SD
+http://maxptv.ddns.net:25461/live/MA020/0706/124.ts
+#EXTINF:0,HBO SD
+http://maxptv.ddns.net:25461/live/MA020/0706/123.ts
+#EXTINF:0,HBO Signature HD
+http://maxptv.ddns.net:25461/live/MA020/0706/122.ts
+#EXTINF:0,HBO Signature SD
+http://maxptv.ddns.net:25461/live/MA020/0706/121.ts
+#EXTINF:0,History Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/120.ts
+#EXTINF:0,History Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/119.ts
+#EXTINF:0,ID HD
+http://maxptv.ddns.net:25461/live/MA020/0706/118.ts
+#EXTINF:0,ID SD
+http://maxptv.ddns.net:25461/live/MA020/0706/117.ts
+#EXTINF:0,Lifetime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/116.ts
+#EXTINF:0,Lifetime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/115.ts
+#EXTINF:0,MAX Prime HD
+http://maxptv.ddns.net:25461/live/MA020/0706/109.ts
+#EXTINF:0,MAX Prime SD
+http://maxptv.ddns.net:25461/live/MA020/0706/108.ts
+#EXTINF:0,MTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/102.ts
+#EXTINF:0,MTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/101.ts
+#EXTINF:0,MULTISHOW HD
+http://maxptv.ddns.net:25461/live/MA020/0706/100.ts
+#EXTINF:0,MULTISHOW SD
+http://maxptv.ddns.net:25461/live/MA020/0706/99.ts
+#EXTINF:0,Mais Globosat HD
+http://maxptv.ddns.net:25461/live/MA020/0706/114.ts
+#EXTINF:0,Mais Globosat SD
+http://maxptv.ddns.net:25461/live/MA020/0706/113.ts
+#EXTINF:0,Max HD
+http://maxptv.ddns.net:25461/live/MA020/0706/112.ts
+#EXTINF:0,Max Prime *e HD
+http://maxptv.ddns.net:25461/live/MA020/0706/111.ts
+#EXTINF:0,Max Prime *e SD
+http://maxptv.ddns.net:25461/live/MA020/0706/110.ts
+#EXTINF:0,Max SD
+http://maxptv.ddns.net:25461/live/MA020/0706/107.ts
+#EXTINF:0,Max UP HD
+http://maxptv.ddns.net:25461/live/MA020/0706/106.ts
+#EXTINF:0,Max UP SD
+http://maxptv.ddns.net:25461/live/MA020/0706/105.ts
+#EXTINF:0,Megapix HD
+http://maxptv.ddns.net:25461/live/MA020/0706/104.ts
+#EXTINF:0,Megapix SD
+http://maxptv.ddns.net:25461/live/MA020/0706/103.ts
+#EXTINF:0,NHK HD
+http://maxptv.ddns.net:25461/live/MA020/0706/92.ts
+#EXTINF:0,NHK SD
+http://maxptv.ddns.net:25461/live/MA020/0706/91.ts
+#EXTINF:0,Nat Geo Kids HD
+http://maxptv.ddns.net:25461/live/MA020/0706/98.ts
+#EXTINF:0,Nat Geo Kids SD
+http://maxptv.ddns.net:25461/live/MA020/0706/97.ts
+#EXTINF:0,NatGeo Wild HD
+http://maxptv.ddns.net:25461/live/MA020/0706/96.ts
+#EXTINF:0,NatGeo Wild SD
+http://maxptv.ddns.net:25461/live/MA020/0706/95.ts
+#EXTINF:0,National Geographic HD
+http://maxptv.ddns.net:25461/live/MA020/0706/94.ts
+#EXTINF:0,National Geographic SD
+http://maxptv.ddns.net:25461/live/MA020/0706/93.ts
+#EXTINF:0,Nick Jr HD
+http://maxptv.ddns.net:25461/live/MA020/0706/90.ts
+#EXTINF:0,Nick Jr SD
+http://maxptv.ddns.net:25461/live/MA020/0706/89.ts
+#EXTINF:0,Nickelodeon HD
+http://maxptv.ddns.net:25461/live/MA020/0706/88.ts
+#EXTINF:0,Nickelodeon SD
+http://maxptv.ddns.net:25461/live/MA020/0706/87.ts
+#EXTINF:0,Paramount Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/86.ts
+#EXTINF:0,Paramount Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/85.ts
+#EXTINF:0,Premiere 1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/82.ts
+#EXTINF:0,Premiere 1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/81.ts
+#EXTINF:0,Premiere 2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/80.ts
+#EXTINF:0,Premiere 2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/79.ts
+#EXTINF:0,Premiere 3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/78.ts
+#EXTINF:0,Premiere 3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/77.ts
+#EXTINF:0,Premiere 4 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/76.ts
+#EXTINF:0,Premiere 4 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/75.ts
+#EXTINF:0,Premiere 5 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/74.ts
+#EXTINF:0,Premiere 5 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/73.ts
+#EXTINF:0,Premiere 6 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/72.ts
+#EXTINF:0,Premiere 6 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/71.ts
+#EXTINF:0,Premiere 7 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/70.ts
+#EXTINF:0,Premiere 7 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/69.ts
+#EXTINF:0,Prime Box Brazil HD
+http://maxptv.ddns.net:25461/live/MA020/0706/68.ts
+#EXTINF:0,Prime Box Brazil SD
+http://maxptv.ddns.net:25461/live/MA020/0706/67.ts
+#EXTINF:0,Record HD
+http://maxptv.ddns.net:25461/live/MA020/0706/64.ts
+#EXTINF:0,Record SD
+http://maxptv.ddns.net:25461/live/MA020/0706/63.ts
+#EXTINF:0,Rede Vida HD
+http://maxptv.ddns.net:25461/live/MA020/0706/62.ts
+#EXTINF:0,Rede Vida SD
+http://maxptv.ddns.net:25461/live/MA020/0706/61.ts
+#EXTINF:0,RedeTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/60.ts
+#EXTINF:0,RedeTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/59.ts
+#EXTINF:0,Rá-Tim-Bum HD
+http://maxptv.ddns.net:25461/live/MA020/0706/66.ts
+#EXTINF:0,Rá-Tim-Bum SD
+http://maxptv.ddns.net:25461/live/MA020/0706/65.ts
+#EXTINF:0,SBT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/58.ts
+#EXTINF:0,SBT HD Alternativo
+http://maxptv.ddns.net:25461/live/MA020/0706/477.ts
+#EXTINF:0,SBT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/57.ts
+#EXTINF:0,Sony HD
+http://maxptv.ddns.net:25461/live/MA020/0706/52.ts
+#EXTINF:0,Sony SD
+http://maxptv.ddns.net:25461/live/MA020/0706/51.ts
+#EXTINF:0,Space HD
+http://maxptv.ddns.net:25461/live/MA020/0706/50.ts
+#EXTINF:0,Space SD
+http://maxptv.ddns.net:25461/live/MA020/0706/49.ts
+#EXTINF:0,SporTV HD
+http://maxptv.ddns.net:25461/live/MA020/0706/48.ts
+#EXTINF:0,SporTV SD
+http://maxptv.ddns.net:25461/live/MA020/0706/47.ts
+#EXTINF:0,SporTV2 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/46.ts
+#EXTINF:0,SporTV2 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/45.ts
+#EXTINF:0,SporTV3 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/44.ts
+#EXTINF:0,SporTV3 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/43.ts
+#EXTINF:0,Studio Universal HD
+http://maxptv.ddns.net:25461/live/MA020/0706/42.ts
+#EXTINF:0,Studio Universal SD
+http://maxptv.ddns.net:25461/live/MA020/0706/41.ts
+#EXTINF:0,Syfy HD
+http://maxptv.ddns.net:25461/live/MA020/0706/40.ts
+#EXTINF:0,Syfy SD
+http://maxptv.ddns.net:25461/live/MA020/0706/39.ts
+#EXTINF:0,TBS HD
+http://maxptv.ddns.net:25461/live/MA020/0706/38.ts
+#EXTINF:0,TBS SD
+http://maxptv.ddns.net:25461/live/MA020/0706/37.ts
+#EXTINF:0,TCM HD
+http://maxptv.ddns.net:25461/live/MA020/0706/36.ts
+#EXTINF:0,TCM SD
+http://maxptv.ddns.net:25461/live/MA020/0706/35.ts
+#EXTINF:0,TLC HD
+http://maxptv.ddns.net:25461/live/MA020/0706/22.ts
+#EXTINF:0,TLC SD
+http://maxptv.ddns.net:25461/live/MA020/0706/21.ts
+#EXTINF:0,TNT HD
+http://maxptv.ddns.net:25461/live/MA020/0706/20.ts
+#EXTINF:0,TNT SD
+http://maxptv.ddns.net:25461/live/MA020/0706/19.ts
+#EXTINF:0,TNT Series HD
+http://maxptv.ddns.net:25461/live/MA020/0706/18.ts
+#EXTINF:0,TNT Series SD
+http://maxptv.ddns.net:25461/live/MA020/0706/17.ts
+#EXTINF:0,TV Aparecida HD
+http://maxptv.ddns.net:25461/live/MA020/0706/14.ts
+#EXTINF:0,TV Aparecida SD
+http://maxptv.ddns.net:25461/live/MA020/0706/13.ts
+#EXTINF:0,Telecine Action HD
+http://maxptv.ddns.net:25461/live/MA020/0706/34.ts
+#EXTINF:0,Telecine Action SD
+http://maxptv.ddns.net:25461/live/MA020/0706/33.ts
+#EXTINF:0,Telecine Cult  HD
+http://maxptv.ddns.net:25461/live/MA020/0706/31.ts
+#EXTINF:0,Telecine Cult SD
+http://maxptv.ddns.net:25461/live/MA020/0706/32.ts
+#EXTINF:0,Telecine Fun HD
+http://maxptv.ddns.net:25461/live/MA020/0706/30.ts
+#EXTINF:0,Telecine Fun SD
+http://maxptv.ddns.net:25461/live/MA020/0706/29.ts
+#EXTINF:0,Telecine Pipoca HD
+http://maxptv.ddns.net:25461/live/MA020/0706/28.ts
+#EXTINF:0,Telecine Pipoca SD
+http://maxptv.ddns.net:25461/live/MA020/0706/27.ts
+#EXTINF:0,Telecine Premium HD
+http://maxptv.ddns.net:25461/live/MA020/0706/26.ts
+#EXTINF:0,Telecine Premium SD
+http://maxptv.ddns.net:25461/live/MA020/0706/25.ts
+#EXTINF:0,Telecine Touch HD
+http://maxptv.ddns.net:25461/live/MA020/0706/24.ts
+#EXTINF:0,Telecine Touch SD
+http://maxptv.ddns.net:25461/live/MA020/0706/23.ts
+#EXTINF:0,Tooncast HD
+http://maxptv.ddns.net:25461/live/MA020/0706/16.ts
+#EXTINF:0,Tooncast SD
+http://maxptv.ddns.net:25461/live/MA020/0706/15.ts
+#EXTINF:0,Universal Channel HD
+http://maxptv.ddns.net:25461/live/MA020/0706/12.ts
+#EXTINF:0,Universal Channel SD
+http://maxptv.ddns.net:25461/live/MA020/0706/11.ts
+#EXTINF:0,VH1 HD
+http://maxptv.ddns.net:25461/live/MA020/0706/8.ts
+#EXTINF:0,VH1 SD
+http://maxptv.ddns.net:25461/live/MA020/0706/7.ts
+#EXTINF:0,Venus HD
+http://maxptv.ddns.net:25461/live/MA020/0706/10.ts
+#EXTINF:0,Venus SD
+http://maxptv.ddns.net:25461/live/MA020/0706/9.ts
+#EXTINF:0,Viva HD
+http://maxptv.ddns.net:25461/live/MA020/0706/6.ts
+#EXTINF:0,Viva SD
+http://maxptv.ddns.net:25461/live/MA020/0706/5.ts
+#EXTINF:0,Warner Bros HD
+http://maxptv.ddns.net:25461/live/MA020/0706/4.ts
+#EXTINF:0,Warner Bros SD
+http://maxptv.ddns.net:25461/live/MA020/0706/3.ts
+#EXTINF:0,Zoomoo HD
+http://maxptv.ddns.net:25461/live/MA020/0706/2.ts
+#EXTINF:0,Zoomoo SD
+http://maxptv.ddns.net:25461/live/MA020/0706/1.ts
+#EXTINF:0,-------------
+C:\Users\acafe\Downloads\-------------
+#EXTINF:0,###########   USA   #############
+http://195.154.220.71:3333/Metege2/Skype15082018/598
+#EXTINF:0,US: A&E HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4070
+#EXTINF:0,US: ABC HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4086
+#EXTINF:0,US: ABC NEWS HD
+http://195.154.220.71:3333/Metege2/Skype15082018/574
+#EXTINF:0,US: AMC HD
+http://195.154.220.71:3333/Metege2/Skype15082018/954
+#EXTINF:0,US: ANIMAL PLANET HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4071
+#EXTINF:0,US: Astro_Supersport 1HD
+http://195.154.220.71:3333/Metege2/Skype15082018/981
+#EXTINF:0,US: Astro_Supersport 2HD
+http://195.154.220.71:3333/Metege2/Skype15082018/982
+#EXTINF:0,US: Astro_Supersport 3HD
+http://195.154.220.71:3333/Metege2/Skype15082018/983
+#EXTINF:0,US: BLOOMBERG
+http://195.154.220.71:3333/Metege2/Skype15082018/575
+#EXTINF:0,US: Bein_Sports_USA_HD
+http://195.154.220.71:3333/Metege2/Skype15082018/984
+#EXTINF:0,US: C-SPAN
+http://195.154.220.71:3333/Metege2/Skype15082018/3974
+#EXTINF:0,US: C-SPAN 2
+http://195.154.220.71:3333/Metege2/Skype15082018/3975
+#EXTINF:0,US: C-SPAN 3
+http://195.154.220.71:3333/Metege2/Skype15082018/3976
+#EXTINF:0,US: CBN
+http://195.154.220.71:3333/Metege2/Skype15082018/3978
+#EXTINF:0,US: CBN NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/567
+#EXTINF:0,US: CBS HD
+http://195.154.220.71:3333/Metege2/Skype15082018/1345
+#EXTINF:0,US: CBSN News
+http://195.154.220.71:3333/Metege2/Skype15082018/568
+#EXTINF:0,US: CINEMAX ACTION MAX
+http://195.154.220.71:3333/Metege2/Skype15082018/4072
+#EXTINF:0,US: CNN HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4087
+#EXTINF:0,US: COMEDY CENTRAL
+http://195.154.220.71:3333/Metege2/Skype15082018/4088
+#EXTINF:0,US: DISCOVERYSCIENCE HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4074
+#EXTINF:0,US: E4
+http://195.154.220.71:3333/Metege2/Skype15082018/4073
+#EXTINF:0,US: ESPN
+http://195.154.220.71:3333/Metege2/Skype15082018/953
+#EXTINF:0,US: ESPN 2 HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4075
+#EXTINF:0,US: ESPN U
+http://195.154.220.71:3333/Metege2/Skype15082018/952
+#EXTINF:0,US: FIGHT NETWORK  HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4076
+#EXTINF:0,US: FOOD NETWORK FULL HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4077
+#EXTINF:0,US: FOX 23 NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/569
+#EXTINF:0,US: FOX 25 BOSTON
+http://195.154.220.71:3333/Metege2/Skype15082018/3977
+#EXTINF:0,US: FOX SPORTS HD 1
+http://195.154.220.71:3333/Metege2/Skype15082018/840
+#EXTINF:0,US: FOX SPORTS HD 2
+http://195.154.220.71:3333/Metege2/Skype15082018/841
+#EXTINF:0,US: FOX SPORTS SUN
+http://195.154.220.71:3333/Metege2/Skype15082018/842
+#EXTINF:0,US: FREEROM
+http://195.154.220.71:3333/Metege2/Skype15082018/4078
+#EXTINF:0,US: GOLF HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4079
+#EXTINF:0,US: HBO
+http://195.154.220.71:3333/Metege2/Skype15082018/913
+#EXTINF:0,US: HBO HD
+http://195.154.220.71:3333/Metege2/Skype15082018/1574
+#EXTINF:0,US: HISTORY HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4080
+#EXTINF:0,US: HOPE CHANNEL
+http://195.154.220.71:3333/Metege2/Skype15082018/3979
+#EXTINF:0,US: KIRO 7 NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/570
+#EXTINF:0,US: MSNBC
+http://195.154.220.71:3333/Metege2/Skype15082018/3983
+#EXTINF:0,US: MSNBS
+http://195.154.220.71:3333/Metege2/Skype15082018/848
+#EXTINF:0,US: NATIONAL GEOGRAPHIC
+http://195.154.220.71:3333/Metege2/Skype15082018/4081
+#EXTINF:0,US: NBC GOLF
+http://195.154.220.71:3333/Metege2/Skype15082018/1343
+#EXTINF:0,US: NBCSN HD
+http://195.154.220.71:3333/Metege2/Skype15082018/1573
+#EXTINF:0,US: NEWSMAX TV
+http://195.154.220.71:3333/Metege2/Skype15082018/571
+#EXTINF:0,US: NFL NETWORK HD
+http://195.154.220.71:3333/Metege2/Skype15082018/1571
+#EXTINF:0,US: NHL Network
+http://195.154.220.71:3333/Metege2/Skype15082018/1344
+#EXTINF:0,US: NICKELODEON HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4082
+#EXTINF:0,US:  OLYMPIC CHANNEL
+http://195.154.220.71:3333/Metege2/Skype15082018/573
+#EXTINF:0,US: QVC
+http://195.154.220.71:3333/Metege2/Skype15082018/3980
+#EXTINF:0,US: RT NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/3981
+#EXTINF:0,US: SPICE HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4083
+#EXTINF:0,US: TBS
+http://195.154.220.71:3333/Metege2/Skype15082018/1342
+#EXTINF:0,US: TEN GOLF HD
+http://195.154.220.71:3333/Metege2/Skype15082018/1572
+#EXTINF:0,US: TNT
+http://195.154.220.71:3333/Metege2/Skype15082018/4084
+#EXTINF:0,US: TSN 1
+http://195.154.220.71:3333/Metege2/Skype15082018/1341
+#EXTINF:0,US: TSN 2
+http://195.154.220.71:3333/Metege2/Skype15082018/706
+#EXTINF:0,US: TSN 3
+http://195.154.220.71:3333/Metege2/Skype15082018/707
+#EXTINF:0,US: TSN 4
+http://195.154.220.71:3333/Metege2/Skype15082018/708
+#EXTINF:0,US: TSN 5
+http://195.154.220.71:3333/Metege2/Skype15082018/709
+#EXTINF:0,US: USA NETWORK HD
+http://195.154.220.71:3333/Metege2/Skype15082018/4085
+#EXTINF:0,US: VIRGIN TV
+http://195.154.220.71:3333/Metege2/Skype15082018/3982
+#EXTINF:0,US: WFTV 9 NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/572
+#EXTINF:0,US: WGN NEWS CHICAGO
+http://195.154.220.71:3333/Metege2/Skype15082018/3984
+#EXTINF:0,US: WPXI NEWS
+http://195.154.220.71:3333/Metege2/Skype15082018/576
+#EXTINF:0,US: WWE HD
+http://195.154.220.71:3333/Metege2/Skype15082018/914
+#EXTINF:0,US:ESPN 2
+http://195.154.220.71:3333/Metege2/Skype15082018/219
+#EXTINF:0,US: Fox Sport 2
+http://195.154.220.71:3333/Metege2/Skype15082018/220
+#EXTINF:0,US: Fox Sport 3
+http://195.154.220.71:3333/Metege2/Skype15082018/221
+#EXTINF:0,US: NBA HD
+http://195.154.220.71:3333/Metege2/Skype15082018/222
+#EXTINF:0,########    CANADA    ########
+http://195.154.220.71:3333/Metege2/Skype15082018/3938
+#EXTINF:0,---------
+C:\Users\acafe\Downloads\---------
+#EXTINF:0,Animal Planet FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9141
+#EXTINF:0,A&E FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9143
+#EXTINF:0,AMC FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14043
+#EXTINF:0,AXN FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8833
+#EXTINF:0,Cartoon Network FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9144
+#EXTINF:0,Caracol FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8831
+#EXTINF:0,Comedy Central FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1580
+#EXTINF:0,Discovery Kids FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7938
+#EXTINF:0,Discovery Turbo FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7937
+#EXTINF:0,Discovery Theater FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1536
+#EXTINF:0,Discovery Investigation FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1577
+#EXTINF:0,Discovery Home & Heatlh FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1578
+#EXTINF:0,Discovery World  FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8834
+#EXTINF:0,El Gourmet FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9145
+#EXTINF:0,FX FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8835
+#EXTINF:0,Fox FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9146
+#EXTINF:0,Fox Life FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1534
+#EXTINF:0,Fox Premium Action FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1575
+#EXTINF:0,Fox Premium Comedy FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8829
+#EXTINF:0,Fox Premium Family FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1533
+#EXTINF:0,Fox Premium Series FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9679
+#EXTINF:0,Fox Premium Movies FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9680
+#EXTINF:0,Galavision USA  FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8827
+#EXTINF:0,Golden Plus FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1211
+#EXTINF:0,Golden Premier FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1208
+#EXTINF:0,HBO FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1528
+#EXTINF:0,HBO 2 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1527
+#EXTINF:0,HBO Family FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1529
+#EXTINF:0,HBO Plus FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1526
+#EXTINF:0,HBO Signature  FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8953
+#EXTINF:0,History FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1583
+#EXTINF:0,Paramount FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1522
+#EXTINF:0,Nat Geo WILD  FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1567
+#EXTINF:0,Boomerang FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12184
+#EXTINF:0,TNT Series FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1521
+#EXTINF:0,Space FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8838
+#EXTINF:0,Univision USA
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1540
+#EXTINF:0,Univision FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1520
+#EXTINF:0,Unimás USA FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1539
+#EXTINF:0,Warner Channel FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12182
+#EXTINF:0,Win Sports FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1519
+#EXTINF:0,Afizzionados FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12183
+#EXTINF:0,All Sports
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13693
+#EXTINF:0,Bein Sports Ñ HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1610
+#EXTINF:0,Bein Sports Ñ [Español]
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1538
+#EXTINF:0,Bein Sports English
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1546
+#EXTINF:0,CDF Básico
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13601
+#EXTINF:0,CDF Premium
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13602
+#EXTINF:0,CDF HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7950
+#EXTINF:0,CDF FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/67
+#EXTINF:0,CDF Estadio HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12516
+#EXTINF:0,CDO HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3757
+#EXTINF:0,CDO Premium HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/62
+#EXTINF:0,Claro Sports HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13539
+#EXTINF:0,Combate
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13162
+#EXTINF:0,DirecTV Sports HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3728
+#EXTINF:0,DirecTV Sports 2 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3730
+#EXTINF:0,DirecTV Sports Plus HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12727
+#EXTINF:0,Dubai Sports
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13707
+#EXTINF:0,ESPN
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13323
+#EXTINF:0,ESPN HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13327
+#EXTINF:0,ESPN FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13331
+#EXTINF:0,ESPN 2
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13324
+#EXTINF:0,ESPN 2 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13328
+#EXTINF:0,ESPN 2 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13332
+#EXTINF:0,ESPN 3
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13325
+#EXTINF:0,ESPN 3 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13329
+#EXTINF:0,ESPN 3 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13333
+#EXTINF:0,ESPN+
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13326
+#EXTINF:0,ESPN+ HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13330
+#EXTINF:0,ESPN+ FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13334
+#EXTINF:0,Fitness TV HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12653
+#EXTINF:0,Fight Network HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3712
+#EXTINF:0,Flow Sports
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13694
+#EXTINF:0,Fox Sports 1 Argentina
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13311
+#EXTINF:0,Fox Sports 2 Argentina
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13312
+#EXTINF:0,Fox Sports Premium
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13309
+#EXTINF:0,Fox Sports Premium HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13310
+#EXTINF:0,Fox Sports Chile
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13503
+#EXTINF:0,Fox Sports Colombia
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13313
+#EXTINF:0,Fox Sports Venezuela
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13680
+#EXTINF:0,Fox Sports 1
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13314
+#EXTINF:0,Fox Sports 1 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13315
+#EXTINF:0,Fox Sports 1 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13316
+#EXTINF:0,Fox Sports 2
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13317
+#EXTINF:0,Fox Sports 2 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13318
+#EXTINF:0,Fox Sports 2 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13319
+#EXTINF:0,Fox Sports 3
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13320
+#EXTINF:0,Fox Sports 3 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13321
+#EXTINF:0,Fox Sports 3 FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13322
+#EXTINF:0,FS1 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1543
+#EXTINF:0,FS2 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1542
+#EXTINF:0,Fight Time
+http://node01.openfutbol.es/SVoriginOperatorEdge/128761.smil/.m3u8
+#EXTINF:0,Gol TV HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1321
+#EXTINF:0,Gol TV_HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8826
+#EXTINF:0,Gol TV   HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3729
+#EXTINF:0,Movistar Deportes HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7941
+#EXTINF:0,Movistar Formula 1 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13370
+#EXTINF:0,Movistar Futbol
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7915
+#EXTINF:0,Movistar Moto GP HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13368
+#EXTINF:0,NESN HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1545
+#EXTINF:0,NESN Plus HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1544
+#EXTINF:0,Olympic Channel
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13585
+#EXTINF:0,PX Sports
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13704
+#EXTINF:0,Real Madrid TV
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
+#EXTINF:0,Sevilla FC
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/index_0700_av-p.m3u8
+#EXTINF:0,Sporting Valparaiso HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/9048
+#EXTINF:0,Super Tennis HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14266
+#EXTINF:0,TNT Sports FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7921
+#EXTINF:0,TNT Sports HD (op.2)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12804
+#EXTINF:0,TyC Sports FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/2
+#EXTINF:0,TyC Sports HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1
+#EXTINF:0,TDN HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1324
+#EXTINF:0,UFC (Fight Night)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14272
+#EXTINF:0,UFC (Fight Pass)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13721
+#EXTINF:0,UFC (Network)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14271
+#EXTINF:0,Univisión TDN USA (Univisión Deportes)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3727
+#EXTINF:0,Univision TDN HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1323
+#EXTINF:0,VTV HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/8190
+#EXTINF:0,VTV PLUS HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3721
+#EXTINF:0,WWE HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14847
+#EXTINF:0,Baby TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1294
+#EXTINF:0,Baby First
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1296
+#EXTINF:0,Boomerang
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1295
+#EXTINF:0,Cartoon Network
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/3758
+#EXTINF:0,Discovery Kids
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1318
+#EXTINF:0,Disney Channel
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1316
+#EXTINF:0,Disney Junior
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1307
+#EXTINF:0,Disney XD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12518
+#EXTINF:0,Nat Geo KIDS HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1351
+#EXTINF:0,Nat Geo KIDS FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1352
+#EXTINF:0,Nickelodeon HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12685
+#EXTINF:0,Nickelodeon FHD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1305
+#EXTINF:0,Nick 2 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1299
+#EXTINF:0,Nick Jr.
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1300
+#EXTINF:0,Peque TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13705
+#EXTINF:0,Paka-Paka
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/12651
+#EXTINF:0,Tooncast
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1292
+#EXTINF:0,Bandamax
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1218
+#EXTINF:0,California Music Channel
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11849
+#EXTINF:0,Country Network
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13225
+#EXTINF:0,Genial TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13226
+#EXTINF:0,HIT TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11841
+#EXTINF:0,HTV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14593
+#EXTINF:0,Melody Channel
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/7905
+#EXTINF:0,MTV HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1227
+#EXTINF:0,MTV Hits
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1225
+#EXTINF:0,MTV Live
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1226
+#EXTINF:0,Music Top
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11830
+#EXTINF:0,Planeta HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11845
+#EXTINF:0,Portal FoxMix
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
+#EXTINF:0,Radio ADN TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13237
+#EXTINF:0,Radio Agricultura TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13265
+#EXTINF:0,Radio Candela TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13227
+#EXTINF:0,Radio Carolina TV
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0,Radio Cooperativa TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13228
+#EXTINF:0,Radio Duna TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13235
+#EXTINF:0,Radio Futuro TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13264
+#EXTINF:0,Radio La Clave TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13266
+#EXTINF:0,Radio Maxima TV
+http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/playlist.m3u8
+#EXTINF:0,Radio Romantica TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13268
+#EXTINF:0,Radio T13 TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13210
+#EXTINF:0,Retro TV
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,Telehit
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1220
+#EXTINF:0,Virgin Radio TV
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11843
+#EXTINF:0,VH1 Classic
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1222
+#EXTINF:0,VH1 HD
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1224
+#EXTINF:0,VH1 Megahits
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/1223
+#EXTINF:0,XITE
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/11846
+#EXTINF:0,CBN Español (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14097
+#EXTINF:0,Comunión TV (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14098
+#EXTINF:0,Corporación TV (Evangélico)
+https://v3.tustreaming.cl/corporaciontv/s1-1500k/tracks-v1a1/mono.m3u8
+#EXTINF:0,Cristovisión (Católico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14096
+#EXTINF:0,CTNi (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14099
+#EXTINF:0,Elim TV (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14108
+#EXTINF:0,Enlace (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13571
+#EXTINF:0,Enlace Juvenil (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14113
+#EXTINF:0,Esperanza TV (Evangélico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14102
+#EXTINF:0,EWTN (Católico)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/13570
+#EXTINF:0,Islam Channel (Musulmán)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14114
+#EXTINF:0,JW (Testigos de Jehová)
+http://infinity.ddns.me:25461/Nestor4500/Nestor10/14111
 #EXTINF:0,80s Rewind
 https://stitcher.pluto.tv/stitch/hls/channel/5ca525b650be2571e3943c63/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=duaohqlqf26jfvbh443n3ie5g0
 #EXTINF:0,4K TV
